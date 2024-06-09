@@ -1,0 +1,96 @@
+Third-party payment platform
+
+Transaction system security
+Transaction processing systems use encryption and security authentication to ensure secure data transmission.
+
+
+Risk Control
+Risk control uses advanced systems to prevent fraud and protect the trading environment.
+
+Funds management 
+Funds management applies strict safety measures to ensure the security of settlement and channel management.
+
+
+Customer Service
+Customer service offers personalized services, such as membership systems, enhancing payment convenience.
+
+Multi-platform compatibility
+Compatibility with multiple platforms like APP, H5, ensuring a flexible payment experience.
+
+
+Payment solution
+Payment solutions support services like split billing, direct debit, meeting diverse needs.
+
+
+E-Commerce:
+
+The payment system plays a central role in online shopping. Consumers can use various payment methods such as credit cards, debit cards, and digital wallets to make online payments on e-commerce platforms.
+
+Physical Retail:
+
+In physical stores such as supermarkets and clothing stores, non-cash payments are accepted through POS machines and mobile payment devices, including QR code payments and Near Field Communication (NFC) payments.
+
+Service Industry Payments:
+
+In industries including dining, travel, and accommodation, consumers can use payment systems to book hotels, pay for meals, or reserve travel services.
+
+
+
+Supply chain finance
+
+Technological Capabilities
+Product Capabilities
+
+
+Enterprise Onboarding
+Covers customer management, real-name authentication, big data risk alerts, etc., ensuring the authenticity of corporate information and the safety of transactions.
+
+
+General Services
+Includes digital certificate management, electronic invoice and asset registration verification, blockchain evidence storage, enhancing the security and immutability of transaction credentials.
+
+
+Middle Platform Services
+Integrates account center, contract center, quota center, approval center, etc., providing one-stop efficient operational support.
+
+
+Multi-level Debt Transfer Certificates
+Enhances supply chain liquidity, supports the free splitting and multi-level circulation of certificates, simplifying the financing process.
+
+Accounts Receivable Management
+Encompasses accounts receivable asset management, factoring financing, pool factoring business, optimizing capital usage.
+
+Asset Securitization
+Offers rapid integration and management of assets through a unified asset marketplace, providing ABS and refactoring financing capabilities, further enhancing the flexibility and accessibility of financing.
+
+Order Financing:
+
+Suppliers obtain financing based on the buyer's purchase orders, allowing them to produce and deliver goods without waiting for the order to be completed. This financing method helps suppliers maintain operations when they are short on funds.
+Invoice Financing (Accounts Receivable Financing):
+
+Suppliers can use their accounts receivable (invoices for goods delivered but not yet paid) for financing, thus obtaining liquidity before the buyer makes payment. Financial institutions provide loans based on the creditworthiness of the invoices.
+Inventory Financing:
+
+Businesses can use their inventory as collateral to obtain financing, thereby improving cash flow without affecting normal sales. This method is suitable for industries with slow inventory turnover.
+Payment Assurance:
+
+Supply chain finance institutions provide payment assurance services, ensuring that suppliers receive payments on time after delivery, thereby reducing transaction risks.
+
+
+Wealth Management System
+
+Business Products
+Bank Deposits、 Insurance 、Funds、Stocks
+
+Core System
+Product System: Manages wealth financial products and customizes them according to different types of products.
+Membership System: Manages user accounts and membership information, including user card details and membership levels.
+Trading System: Provides real-time trading functionalities to facilitate buying and selling of financial assets.
+Asset System: Tracks and manages clients' assets, providing tools to calculate user profits.
+Fund Channel System: Manages channels for funds entering and leaving the system.
+
+System Scale
+AUM :135 billion
+Card Users: 3 million+ 
+Daily UV: 100,000+ 
+Peak QPS: 1,500
